@@ -54,13 +54,13 @@ We have other Slack workspaces which aim to enhance interdisciplinary communicat
 [1 The policies on invitation]
 The following are the policies on inviting new members;
 ​
--The alumni and the current students of Graduate School of Mathematical Sciences and 理学部数学科 at the University of Tokyo are both welcome!
+- The alumni and the current students of Graduate School of Mathematical Sciences and 理学部数学科 at the University of Tokyo are both welcome!
 ​
--When you invite new members to this Slack workspace, basically please use email addresses. However, it is O.K. to use the invitation link exceptionally when you invite current students only (please be careful not to let other people know the URL).
+- When you invite new members to this Slack workspace, basically please use email addresses. However, it is O.K. to use the invitation link exceptionally when you invite current students only (please be careful not to let other people know the URL).
 ​
--Please note that the professors are not to participate in this workspace.
+- Please note that the professors are not to participate in this workspace.
 ​
--For the communications with students of areas other than mathematics, please use the workspaces mentioned above.
+- For the communications with students of areas other than mathematics, please use the workspaces mentioned above.
 ​
 Thank you for your cooperation!
 ​
