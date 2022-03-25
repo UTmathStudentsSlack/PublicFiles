@@ -1,4 +1,4 @@
-# utmath-students Slackガイドライン
+# utmath-students Slackガイドライン (ut-math students Slack Guideline)
 このワークスペースは，***東大数学科の学生&OBによる***，代を超えての交流の場です．
 全体の企画としては，時たま，進路や代を問わずに参加者を募っての食事会などが行えればと考えております．
 他にも，ゼミのメンバー集め，資料共有，興味を同じくする学生同士での情報交換などが***効率よく行えるプラットフォーム***を目指しているので，
@@ -44,3 +44,47 @@
 (途中で***運営係を辞めるのも自由***です，どうぞお気軽に試してみてください)．
 ​
 - その他，ワークスペースを利用されていて，***改善案など思ったことがございましたら，いつでも***お近くの運営係にお問い合わせください(現在， @権 英哲 (けん えいてつ) ，@Yuta Nakayama)．
+
+[The English version]
+Dear all,
+Welcome to utmath-students Slack workspace! This is a place for the students and the alumni of Graduate School of Mathematical Sciences and 理学部数学科 at the University of Tokyo to communicate with each other across generations.
+We are aiming to create a platform where students can efficiently gather seminar members, share materials, and exchange information with students of similar interests. Please make active use of it (please feel free to create more channels as needed, for example).
+We have other Slack workspaces which aim to enhance interdisciplinary communication between the students of several areas. See #資料共有 for the information and the invitation links.
+​
+[1 The policies on invitation]
+The following are the policies on inviting new members;
+​
+-The alumni and the current students of Graduate School of Mathematical Sciences and 理学部数学科 at the University of Tokyo are both welcome!
+​
+-When you invite new members to this Slack workspace, basically please use email addresses. However, it is O.K. to use the invitation link exceptionally when you invite current students only (please be careful not to let other people know the URL).
+​
+-Please note that the professors are not to participate in this workspace.
+​
+-For the communications with students of areas other than mathematics, please use the workspaces mentioned above.
+​
+Thank you for your cooperation!
+​
+[2 Remarks and news on how to use this workspace]
+​
+-If you are new to this workspace, please write your laboratories (if you are now outside of the university, please write the laboratories you belonged to) and the subjects you are interested in, etc. It is to clarify that you are authorized to participate in this workspace.
+​
+e.g. M2*/enrolled in 2020/ Logic [Professor. Friedman]
+​
+-There are various channels that are not set as defaults and require a search using the “+” mark at the right of “Channels.”
+​
+-Depending on your notification settings, you may not be notified when other members send you messages. Please check the settings of your own account.
+​
+-You may send messages to the current students in the public channels unless they do not include any confidential information (such as Zoom URLs).
+​
+-We are looking for volunteers to run this workspace with us! The main tasks are (currently) the following three:
+(a) Create invitation links for this Slack workspace if needed and advertise them to as many students as possible.
+(b) Respond to inquiries from other members when they need administrator privileges for the workspace, such as when creating a private channel.
+(c) Revise the management policy of the workspace if necessary.
+We think that it is best to have at least one person per one generation (especially, we would like to have staffs from current B3 & B4*). The staffs can of course quit the job anytime they want, so please feel free to contact us if you are interested (current organizers are @権 英哲(けん えいてつ) and @Yuta Nakayama).
+​
+-As mentioned in (c) above, there are staff members in charge of the workspace. If you have any suggestions or questions, please feel free to contact your nearest staff member.
+​
+That’s all for now! Thank you very much for your cooperation!
+​
+*B, M and D are common abbreviations of the course names. Each letter stands for the degree which is awarded to the students graduating the course;
+ B: Bachelor, M: Master, D: Doctor
