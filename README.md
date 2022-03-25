@@ -78,7 +78,7 @@ e.g. M2*/enrolled in 2020/ Logic [Professor. Friedman]
 ​
 - You may send messages to the current students in the public channels ***unless they do not include any confidential information*** (such as Zoom URLs).
 ​
--We are looking for ***volunteers to run this workspace with us!*** The main tasks are (currently) the following three:
+- We are looking for ***volunteers to run this workspace with us!*** The main tasks are (currently) the following three:
 ​
 (a) Create invitation links for this Slack workspace if needed and advertise them to as many students as possible.
 ​
@@ -86,7 +86,7 @@ e.g. M2*/enrolled in 2020/ Logic [Professor. Friedman]
 ​
 (c) Revise the management policy of the workspace if necessary.
 ​
-We think that it is best to have at least one person per one generation (especially, we would like to have staffs from current B3 & B4*). The staffs can of course quit the job anytime they want, so please feel free to contact us if you are interested (current organizers are @権 英哲(けん えいてつ) and @Yuta Nakayama).
+- As for the volunteers above, we think that it is best to have ***at least one person per one generation*** (especially, we would like to have staffs from current B3 & B4*). The staffs can of course quit the job anytime they want, so please feel free to contact us if you are interested (current organizers are @権 英哲(けん えいてつ) and @Yuta Nakayama).
 ​
 - As mentioned in (c) above, there are staff members in charge of the workspace. If you have any suggestions or questions, please feel free to contact your nearest staff member.
 ​
