@@ -25,7 +25,8 @@
 
 
 以上，よろしくお願い申し上げます．
-​
+
+
 ## [2 ワークスペースの活用についての諸注意・お知らせ]
 ​
 - ワークスペースに新規参加された方は，お手数ですが，所属(OBであれば元々の所属)や好きな分野などを***プロフィール欄に記入***ください(本ワークスペースは，東大数理・数学科の学生&OBによるものだからです)．
@@ -45,7 +46,7 @@
 ​
 - その他，ワークスペースを利用されていて，***改善案など思ったことがございましたら，いつでも***お近くの運営係にお問い合わせください(現在， @権 英哲 (けん えいてつ) ，@Yuta Nakayama)．
 
-[The English version]
+### [The English version]
 Dear all,
 Welcome to utmath-students Slack workspace! This is a place for the students and the alumni of Graduate School of Mathematical Sciences and 理学部数学科 at the University of Tokyo to communicate with each other across generations.
 ​
@@ -65,9 +66,10 @@ The following are the policies on inviting new members;
 - For the communications with students of areas other than mathematics, please use the workspaces mentioned above.
 ​
 Thank you for your cooperation!
-​
+
+
 ## [2 Remarks and news on how to use this workspace]
-​
+
 - If you are new to this workspace, please write your laboratories (if you are now outside of the university, please write the laboratories you belonged to) and the subjects you are interested in, etc. It is to clarify that you are authorized to participate in this workspace.
 ​
 e.g. M2*/enrolled in 2020/ Logic [Professor. Friedman]
@@ -89,8 +91,11 @@ e.g. M2*/enrolled in 2020/ Logic [Professor. Friedman]
 - As for the volunteers above, we think that it is best to have ***at least one person per one generation*** (especially, we would like to have staffs from current B3 & B4*). The staffs can of course quit the job anytime they want, so please feel free to contact us if you are interested (current organizers are @権 英哲(けん えいてつ) and @Yuta Nakayama).
 ​
 - As mentioned in (c) above, there are staff members in charge of the workspace. If you have any suggestions or questions, please feel free to contact your nearest staff member.
-​
+
+
 That’s all for now! Thank you very much for your cooperation!
-​
+
+
+
 *B, M and D are common abbreviations of the course names. Each letter stands for the degree which is awarded to the students graduating the course;
  B: Bachelor, M: Master, D: Doctor
