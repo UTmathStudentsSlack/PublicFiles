@@ -41,7 +41,7 @@
 ​
 - それから，現在このワークスペースの***運営係を募集***しております(主なお仕事は，ユーザーからのお便りに答えること，ワークスペースのポリシーの必要に応じた改訂，ワークスペースの管理です．面白い企画があれば，それを試してみることもできます)．
 特に現役 B3,B4 の代の人員が足りておりません．
-ご興味がおありの方は，お近くの運営係(現在， @権 英哲 (けん えいてつ) ， @Yuta Nakayama )にご連絡ください
+ご興味がおありの方は，お近くの運営係(現在， @権 英哲 (けん えいてつ),  @Yuta Nakayama, @Ryota Kuroki )にご連絡ください
 (途中で***運営係を辞めるのも自由***です，どうぞお気軽に試してみてください)．
 ​
 - その他，ワークスペースを利用されていて，***改善案など思ったことがございましたら，いつでも***お近くの運営係にお問い合わせください(現在， @権 英哲 (けん えいてつ) ，@Yuta Nakayama)．
@@ -88,7 +88,7 @@ e.g. M2*/enrolled in 2020/ Logic [Professor. Friedman]
 ​
 (c) Revise the management policy of the workspace if necessary.
 ​
-- As for the volunteers above, we think that it is best to have ***at least one person per one generation*** (especially, we would like to have staffs from current B3 & B4*). The staffs can of course quit the job anytime they want, so please feel free to contact us if you are interested (current organizers are @権 英哲(けん えいてつ) and @Yuta Nakayama).
+- As for the volunteers above, we think that it is best to have ***at least one person per one generation*** (especially, we would like to have staffs from current B3 & B4*). The staffs can of course quit the job anytime they want, so please feel free to contact us if you are interested (current organizers are @権 英哲(けん えいてつ), @Yuta Nakayama and @Ryota Kuroki).
 ​
 - As mentioned in (c) above, there are staff members in charge of the workspace. If you have any suggestions or questions, please feel free to contact your nearest staff member.
 
