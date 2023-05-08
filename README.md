@@ -8,7 +8,9 @@
 また，このSlackワークスペースの他にも，「情報×数理(東大)」「経済×数理(東大)」 「物理×数理(東大)」といった，学科を超えての東大学生の交流の場もあります．
 数学科の学生によるDiscordサーバも存在します.
 それぞれ
-***「#資料共有」チャンネルで示したURLから***Slackワークスペースに参加できますので，是非ご活用ください.
+***「#資料共有」チャンネルで示したURLから***Slackワークスペースに参加できますので，是非ご活用ください
+(現在Slackフリープランの変更に伴いこれらのURLが見られなくなっています.
+対応を検討中です).
 ​
 ## [1 メンバー招待に関するポリシー]
 ​
@@ -41,10 +43,10 @@
 ​
 - それから，現在このワークスペースの***運営係を募集***しております(主なお仕事は，ユーザーからのお便りに答えること，ワークスペースのポリシーの必要に応じた改訂，ワークスペースの管理です．面白い企画があれば，それを試してみることもできます)．
 特に現役 B3,B4 の代の人員が足りておりません．
-ご興味がおありの方は，お近くの運営係(現在， @権 英哲 (けん えいてつ),  @Yuta Nakayama, @Ryota Kuroki )にご連絡ください
+ご興味がおありの方は，お近くの運営係(現在， @権 英哲 (けん えいてつ),  @Yuta Nakayama, @Ryota Kuroki, @笹木宏人)にご連絡ください
 (途中で***運営係を辞めるのも自由***です，どうぞお気軽に試してみてください)．
 ​
-- その他，ワークスペースを利用されていて，***改善案など思ったことがございましたら，いつでも***お近くの運営係にお問い合わせください(現在， @権 英哲 (けん えいてつ) ，@Yuta Nakayama, @Ryota Kuroki)．
+- その他，ワークスペースを利用されていて，***改善案など思ったことがございましたら，いつでも***お近くの運営係にお問い合わせください(現在， @権 英哲 (けん えいてつ) ，@Yuta Nakayama, @Ryota Kuroki, @笹木宏人)．
 
 ### [The English version]
 Dear all,
@@ -53,6 +55,7 @@ Welcome to utmath-students Slack workspace! This is a place for the students and
 We are aiming to create a platform where students can efficiently gather seminar members, share materials, and exchange information with students of similar interests. Please make active use of it (please feel free to create more channels as needed, for example).
 ​
 We have ***other Slack workspaces*** which aim to enhance interdisciplinary communication between the students of several areas. See #資料共有 for the information and the invitation links.
+Note: Due to the changes to Slack's free plan, these links are currently invisible.
 ​
 ## [1 The policies on invitation]
 The following are the policies on inviting new members;
@@ -88,7 +91,7 @@ e.g. M2*/enrolled in 2020/ Logic [Professor. Friedman]
 ​
 (c) Revise the management policy of the workspace if necessary.
 ​
-- As for the volunteers above, we think that it is best to have ***at least one person per one generation*** (especially, we would like to have staffs from current B3 & B4*). The staffs can of course quit the job anytime they want, so please feel free to contact us if you are interested (current organizers are @権 英哲(けん えいてつ), @Yuta Nakayama and @Ryota Kuroki).
+- As for the volunteers above, we think that it is best to have ***at least one person per one generation*** (especially, we would like to have staffs from current B3 & B4*). The staffs can of course quit the job anytime they want, so please feel free to contact us if you are interested (current organizers are @権 英哲(けん えいてつ), @Yuta Nakayama, @Ryota Kuroki and @笹木宏人).
 ​
 - As mentioned in (c) above, there are staff members in charge of the workspace. If you have any suggestions or questions, please feel free to contact your nearest staff member.
 
